@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Solution05 {
     /*
+    Compute basic calculation based on user's two numbers
     - input two numbers from user as ints
     - add, subtract, multiply, and divide the two numbers
     - output results
